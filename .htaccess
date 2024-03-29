@@ -1,0 +1,3 @@
+<IfModule mod_headers.c>
+    Header set Content-Security-Policy "frame-ancestors 'self' https://www.welcome-werkstatt.de https://welcome-werkstatt.de http://ww-site.test https://www.offene-werkstaetten.org;"
+</IfModule>
